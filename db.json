@@ -1,6 +1,29 @@
 {
   "news": [
-
+    {
+      "text": "В феврале мы ходили в антикафе играть в игры",
+      "date": 1586548175256,
+      "image": null,
+      "id": 1
+    },
+    {
+      "text": "В середине марта мы вышли на карантин",
+      "date": 1586548253521,
+      "image": null,
+      "id": 2
+    },
+    {
+      "text": "30 марта начались каникулы)",
+      "date": 1586548310031,
+      "image": null,
+      "id": 3
+    },
+    {
+      "text": "5 апреля закончились каникулы(",
+      "date": 1586548331482,
+      "image": null,
+      "id": 4
+    }
   ],
   "timetable": [
     {
@@ -14,27 +37,37 @@
       "cabinet": "A-424.1"
     },
     {
-      "lessonNumber": "3",
-      "timeBegin": "12:12",
-      "subject": "Математический анализ",
-      "teacher": "Белова И. М.",
-      "type": "пр",
-      "cabinet": "A-128",
-      "timeEnd": "12:13",
-      "id": 4
-    },
-    {
-      "lessonNumber": "4",
-      "timeBegin": "14:99",
-      "timeEnd": "16:20",
+      "timeEnd": "18:00",
       "subject": "ООП",
       "teacher": "Шешуков Л.С.",
       "type": "пр",
       "cabinet": "И-421",
+      "lessonNumber": "4",
+      "timeBegin": "16:30",
+      "id": 3
+    },
+    {
+      "timeEnd": "18:00",
+      "subject": "ООП",
+      "teacher": "Шешуков Л.С.",
+      "type": "пр",
+      "cabinet": "И-421",
+      "timeBegin": "16:30",
+      "lessonNumber": "5",
+      "id": 4
+    },
+    {
+      "type": "пр",
+      "lessonNumber": "1",
+      "timeBegin": "09:00",
+      "timeEnd": "10:30",
+      "subject": "Математический анализ",
+      "teacher": "Белова И.М.",
+      "cabinet": "А-128",
       "id": 5
     }
   ],
-  "group": [
+  "group" : [
 
   ]
 }
