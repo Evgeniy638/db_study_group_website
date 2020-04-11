@@ -68,6 +68,61 @@
     }
   ],
   "group" : [
-
+    {
+      "surname": "Леутина",
+      "name": "Таисия",
+      "patronymic": "Александровна",
+      "image": null,
+      "id": 1
+    },
+    {
+      "surname": "Субботин",
+      "name": "Евгений",
+      "patronymic": "Валерьевич",
+      "image": null,
+      "id": 2
+    },
+    {
+      "surname": "Горбенко",
+      "name": "Артем",
+      "patronymic": "Дмитриевич",
+      "image": null,
+      "id": 3
+    },
+    {
+      "surname": "Беликова",
+      "name": "Полина",
+      "patronymic": "Юрьевна",
+      "image": null,
+      "id": 4
+    },
+    {
+      "surname": "Гришкова",
+      "name": "Евгения",
+      "patronymic": "Андреевна",
+      "image": null,
+      "id": 5
+    },
+    {
+      "surname": "Зубченко",
+      "name": "Константин",
+      "patronymic": "Вадимович",
+      "image": null,
+      "id": 6
+    },
+    {
+      "surname": "Пономарёв",
+      "name": "Денис",
+      "patronymic": "Николаевич",
+      "image": null,
+      "id": 7
+    },
+    {
+      "surname": "Залетин",
+      "name": "Никита",
+      "patronymic": "Андреевич",
+      "image": null,
+      "id": 8
+    }
   ]
 }
